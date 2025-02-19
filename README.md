@@ -1,6 +1,7 @@
 # Data-Analyst-Portfolio
 
 [Sanken Sales Performance](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis):
+
 Sanken, an Indonesian company established in 1996, specializes in selling a variety of electrical appliances. I'm partnering with the Data Scientist to extract insights and deliver recommendations to improve performance across sales, product and marketing teams.
 
 Insights and recommendations are provided on the following key areas:
@@ -17,6 +18,7 @@ See the queries I used to clean, explore and filter data in SQL File
 See the data I analyzed in Excel File
 
 [Netflix Userbase Analysis](https://github.com/pumpbumpdump/Netflix-Userbase-Analysis):
+
 Netflix is a streaming service, specializing in offering a diverse selection of movies and TV shows across various genres. With a vast amount of data on viewer preferences and engagement that has been previously underutilized, this project analyzes the data to uncover critical insights that will further enhance Netflix's commercial success.
 
 Insights and recommendations are provided on the following key areas:
