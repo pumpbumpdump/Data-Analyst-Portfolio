@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio
+# Data Analyst Portfolio
 
 ## [Sanken Sales Performance](https://github.com/pumpbumpdump/Sanken-Sales-Performance-Analysis):
 
