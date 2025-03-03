@@ -13,12 +13,6 @@ Product Level Performance: An analysis of Sanken's various product lines, unders
 Customer Engagement: Study of customer choices, product preferences, and post-purchase behavior to determine factors influencing loyalty and satisfaction.
 See the interactive sales dashboard and visualizations I've made in Sales Dashboard Tableau Public
 
-See the interactive customer engagement dashboard and visualizations I've made in Customer Dashboard Tableau Public
-
-See the queries I used to clean, explore and filter data in SQL File
-
-See the data I analyzed in Excel File
-
 ## [Netflix Userbase Analysis](https://github.com/pumpbumpdump/Netflix-Userbase-Analysis):
 
 ### Project Background
@@ -30,5 +24,3 @@ Insights and recommendations are provided on the following key areas:
 Customer Demographics: Analysis of customer age groups, gender distribution, and regional preferences to identify key audience segments.
 Subscription Analysis: Evaluation of subscription distribution (Basic, Standard, Premium).
 Microsoft Power BI is utilized for data visualization, generating key metrics such as monthly revenue and months subscribed, and categorizing age groups.
-
-You can download my Power BI interactive dashboard.
